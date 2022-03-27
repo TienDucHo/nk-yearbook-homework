@@ -21,7 +21,7 @@ nav {
 }
 
 .menu-icon {
-  display: none;
+  display: none !important;
 }
 
 nav h2 {
