@@ -101,7 +101,7 @@ footer h4 {
     visibility: hidden;
   }
   .menu-icon {
-    display: block;
+    display: block !important;
     justify-self: self-start;
   }
   #hero {
